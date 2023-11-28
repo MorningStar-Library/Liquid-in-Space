@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Liquid-in-Space/static/css/main.c72b33ff.css",
+    "main.js": "/Liquid-in-Space/static/js/main.051b4cd1.js",
+    "static/js/787.c8f1a694.chunk.js": "/Liquid-in-Space/static/js/787.c8f1a694.chunk.js",
+    "index.html": "/Liquid-in-Space/index.html",
+    "main.c72b33ff.css.map": "/Liquid-in-Space/static/css/main.c72b33ff.css.map",
+    "main.051b4cd1.js.map": "/Liquid-in-Space/static/js/main.051b4cd1.js.map",
+    "787.c8f1a694.chunk.js.map": "/Liquid-in-Space/static/js/787.c8f1a694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72b33ff.css",
+    "static/js/main.051b4cd1.js"
+  ]
+}
